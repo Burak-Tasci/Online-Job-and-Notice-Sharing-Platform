@@ -9,6 +9,6 @@ JavaFX SDK 11
 # Needings to Run
 1. Add SQL Server JDBC to lib.
 2. Add JavaFX SDK 11 to lib.
-3. Run burakidn.sql in the sql server.
+3. Run burakidn.sql in the SQL Server Management Studio.
 4. In the DatabaseConnection package, there is a DB_CONFIG class, write there your sql server username and password.
 5. Ready to run.
