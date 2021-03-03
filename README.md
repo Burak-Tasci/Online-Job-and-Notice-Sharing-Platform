@@ -12,4 +12,4 @@ JavaFX SDK 11
 3. Set VM Options.
 4. Run burakidn.sql in the SQL Server Management Studio.
 5. In the DatabaseConnection package, there is a DB_CONFIG class, write there your sql server username and password.
-6. Ready to run.
+6. Ready to run UI.main file.
